@@ -7,3 +7,48 @@ My Reddit robot for, hopefully, a reinvigorated Chroma
 <br></br>Either way, this will be a fun experience. You can only go into something completely blind once.</p>
 
 # Plan
+          75/110                                                      54/100
+           ____                                                         ____
+         /       \                                                    /       \
+        |         |                                                  |         |
+         \ ____  /      _                                      _      \ ____  /   
+             |       __| |______________        ______________| |__       |
+             |______|__| |_____________/        \_____________| |__|______|
+            /|         |_|                                    |_|         |\   
+           / |                                                            | \
+          /  |                                                            |  \
+         /   |                                                            |   \
+        /    |                                                            |    \
+            / \                                                          / \
+           /   \                                                        /   \
+          /     \                                                      /     \
+         /       \                                                    /       \
+        /         \                                                  /         \
+
+_______
+
+      | DEF: XX | ATK: XX |                                      | DEF: XX | ATK: XX |
+      | SPD: XX | EXP: XX |                                      | SPD: XX | EXP: XX |
+      | Orangered  lvl. 1 |                                      | Periwinkle lvl. 1 |             
+
+_______
+
+>>>>> **Orangered** uses Medium Attack, **it misses!**
+
+>>>>> **Periwinkle** uses Light Attack, **it deals 7 damage!**
+
+>>>> **Orangered** uses Medium Attack, **it deals 15 damage!**
+
+>>>> **Periwinkle** uses Heavy Attack, **it misses!**
+
+>>> **Orangered** uses Light Attack, **it deals 5 damage!**
+
+>>> **Periwinkle** uses Heavy Attack, ***it deals 25 damage!!!***
+
+>>**Orangered** uses Medium Attack, *Critical Hit!* **It deals 19 damage!**
+
+>> **Periwinkle** uses light Attack, **it deals 3 damage!**
+
+> **Orangered** uses Light Attack, **it deals 7 damage!**
+
+> **Periwinkle** uses Heavy Attack, **it misses!**
